@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="",futbol argentino por jeremias
+#EXTINF:0 tvg-logo="" group-title="Argentina",El Nueve (Canal 9)
+http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",Canal 26 HD
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",Argentina|12 Peridismo con opinion
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
+#EXTINF:0 tvg-logo="" group-title="Argentina",C5N
+http://181.13.252.102:8000/play/a01p/index.m3u8?
+#EXTINF:0 tvg-logo="" group-title="Argentina",America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN Premiun HD
+http://45.5.151.147:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN Disney SD
+http://181.78.7.90:12500/play/a0dr/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN 1 ARG
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9521
+#EXTINF:0 tvg-logo="" group-title="Futbol",ESPN 1 LAT HD
+http://45.70.201.81:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",TNT Sports HD
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",TyC Sports HD (SOLO PARA LA ARGENTINA)
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 1 HD
+http://181.209.37.74:8001/play/a085/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 2 HD
+http://181.209.37.74:8001/play/a09b/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",Fox Sports 3 HD
+http://181.209.37.74:8001/play/a06y/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",DSports 1 HD
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",DSports 2 HD
+http://38.224.73.146:8000/play/a0vr/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Futbol",DSports +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+#EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.2 | EVENTO DIARIOS
+https://streamtpnew.com/global1.php?stream=mls3en
+#EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTO AEW
+http://212.102.60.231/TNT/index.m3u8
+#EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTO TBS 
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="DEPORTES", 1034.1 | BEIN SPORTS
+http://181.78.106.127:9000/play/ca039
+#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="EVENTOS", 1034.2 | PPV + SPORTS
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/31
+#EXTINF:-1 tvg-id="MX | ecdf" tvg-name="MX | bein sports" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 1034.3 | ecdf
+http://38.44.109.41:8003/play/a01j
+
+
+
+#EXTINF:-1 group-title="Noticias",TN HD
+http://181.13.198.204:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Noticias",26TV
+http://181.13.198.204:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Noticias",A24
+http://181.13.198.204:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="Noticias",America TV HD
+http://181.13.198.204:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Noticias",C5N
+http://181.13.198.204:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN en EspaÃ±ol
+http://181.13.198.204:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Noticias",Canal 3 Rosario
+http://181.13.198.204:8000/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="Noticias",Canal a
+http://181.13.198.204:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="Noticias",Canal de la Ciudad
+http://181.13.198.204:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="Noticias",Cronica
+http://181.13.198.204:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Noticias",El Nueve HD
+http://181.13.198.204:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Noticias",El Trece HD
+http://181.13.198.204:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Noticias",La Nacion TV
+http://181.13.198.204:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="Noticias",Metro
+http://181.13.198.204:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="Noticias",RT en EspaÃ±ol
+http://181.13.198.204:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="Noticias",Rural
+http://181.13.198.204:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Noticias",TV Publica HD
+http://181.13.198.204:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Noticias",Telefe HD
+http://181.13.198.204:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="Noticias",ciudad magazine
+http://181.13.198.204:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="Deportes",AM Sports
+http://181.13.198.204:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSports  HD
+http://181.13.198.204:8000/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSports 2 HD
+http://181.13.198.204:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="Deportes",DeporTV
+http://181.13.198.204:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN  HD
+http://181.13.198.204:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD
+http://181.13.198.204:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD
+http://181.13.198.204:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4 HD
+http://181.13.198.204:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Premium HD
+http://181.13.198.204:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports  HD 
+http://181.13.198.204:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 HD
+http://181.13.198.204:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD
+http://181.13.198.204:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports HD
+http://181.13.198.204:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Deportes",TyC Sports HD
+http://181.13.198.204:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Cine",A&E HD
+http://181.13.198.204:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Cine",AMC
+http://181.13.198.204:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Cine",AMC Series
+http://181.13.198.204:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Cine",AXN HD
+http://181.13.198.204:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Cine",Cine.AR
+http://181.13.198.204:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="Cine",Cinecanal HD
+http://181.13.198.204:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Cine",Cinemax
+http://181.13.198.204:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Cine",Comedy Central HD
+http://181.13.198.204:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Cine",E! Entertainment
+http://181.13.198.204:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Cine",El Canal  de las Estrellas
+http://181.13.198.204:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="Cine",FX HD
+http://181.13.198.204:8000/play/a05h/index.m3u8
+#EXTINF:-1
